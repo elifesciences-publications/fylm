@@ -1,3 +1,9 @@
+
+
+### This code is associated with the paper from Greenstein et al., "Noncoding RNA-nucleated heterochromatin spreading is intrinsically labile and requires accessory elements for epigenetic stability". eLife, 2018. http://dx.doi.org/10.7554/eLife.32948
+
+
+
 ![alt tag](https://raw.github.com/jimrybarski/fylm/dev/fylmcritic.png)
 ====
 Extracts data from Fission Yeast Lifespan Microdissector images.
